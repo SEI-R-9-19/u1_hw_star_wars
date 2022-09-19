@@ -1,8 +1,9 @@
 # 1. Unload the Millenium Falcon in ONE COMMAND!
 # Move the whole crew from the millenium_falcon directory into the death_star directory. HINT: * following a directory will grab all files/folders inside of a directory (directory/*)
-
+mv ../empire/death_star/millenium_falcon/* ../empire/death_star
 # 2. darth_vader has defeated obi_wan! Delete poor obi_wan.
-
+cd ../empire/death_star
+rm obi_wan.txt
 # 3.  Our heroes have disabled the tractor beam! Move the whole crew back into the millenium_falcon!
 # Remember: darth_vader remains in the death_star and emperor_palpatine is still in the empire.
 
