@@ -12,3 +12,5 @@ mv millenium_falcon ../../rebellion
 # 5. darth_vader leaves the death_star to pursue luke_skywalker! Move him from the death_star into the empire directory!
 mv darth_vader.txt ../
 # 6. Thanks to his practice back home at Beggar’s Canyon, Luke blew up the death_star! Remove it from the galaxy!
+ ..
+ rm -rf death_star
