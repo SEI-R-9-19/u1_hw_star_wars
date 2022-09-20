@@ -11,4 +11,4 @@ touch star_wars/empire/emperor_palpatine.txt
 # 6. Inside the empire directory, create a directory called death_star
 mkdir star_wars/empire/death_star
 # 7. Move darth_vader.txt into the death_star
- mv star_wars/empire/darth_vader.txt star_wars/empire/death_star 
+ mv star_wars/empire/darth_vader.txt star_wars/empire/death_star
