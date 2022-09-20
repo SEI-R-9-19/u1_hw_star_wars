@@ -1,5 +1,5 @@
 # 1. Inside the `star_wars/rebellion` directory, (IN ONE COMMAND using &&) create a file called princess_leia.txt with the text "Help me, Obi-Wan…"
-touch princess_leia.txt && echo "Help me, Obi-Wan..."
+touch princess_leia.txt && echo "Help me, Obi-Wan..."  >> princess_leia.txt
 # 2. Create a file called obi_wan.txt in star_wars/rebellion
 touch obi-wan.txt
 # 3. Create a file in star_wars/rebellion called luke_skywalker.txt
