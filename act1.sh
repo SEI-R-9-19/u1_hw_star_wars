@@ -12,3 +12,8 @@ touch emperor_palpatine.txt
 mkdir death_star
 # 7. Move darth_vader.txt into the death_star
 mv darth_vader.txt death_star/darth_vader.txt
+
+  203  git add .
+  204  git status
+  205  git commit -m "Act 1 Update"
+  206  git status

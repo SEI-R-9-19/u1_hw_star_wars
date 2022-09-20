@@ -15,3 +15,7 @@ death_star git:(main) ✗ mv millenium_falcon /Users/kyledavis/ga_seir/unit1/hom
 death_star git:(main) ✗ mv darth_vader.txt /Users/kyledavis/ga_seir/unit1/homework/u1_hw_star_wars/star_wars/empire 
 # 6. Thanks to his practice back home at Beggar’s Canyon, Luke blew up the death_star! Remove it from the galaxy!
 empire git:(main) ✗ rm -rf death_star
+
+  274  git status
+  275  git commit -m "Act 3 Updated"
+  276  git status

@@ -14,3 +14,8 @@ mv obi_wan.txt millenium_falcon/obi_wan.txt
 mv princess_leia.txt millenium_falcon/princess_leia.txt
 # 7. Move the millenium_falcon into the death_star.
 mv millenium_falcon /Users/kyledavis/ga_seir/unit1/homework/u1_hw_star_wars/star_wars/empire/death_star
+
+ 226  git add .
+  227  git status
+  228  git commit -m "Act 2 Update"
+  229  git status
