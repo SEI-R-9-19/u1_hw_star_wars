@@ -18,6 +18,3 @@ mv star_wars/empire/death_star/millenium_falcon star_wars/rebellion
 mv star_wars/empire/death_star/darth_vader.txt star_wars/empire
 # 6. Thanks to his practice back home at Beggar’s Canyon, Luke blew up the death_star! Remove it from the galaxy!
 rm -rf star_wars/empire/death_star
-
-git add .
-git commit -m "The galaxy is saved! Hooray!"

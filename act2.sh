@@ -16,6 +16,3 @@ mv star_wars/rebellion/obi_wan.txt star_wars/rebellion/millenium_falcon
 mv star_wars/rebellion/princess_leia.txt star_wars/rebellion/millenium_falcon
 # 7. Move the millenium_falcon into the death_star.
 mv star_wars/rebellion/millenium_falcon star_wars/empire/death_star
-
-git add .
-git commit  -m "created directories for act 1 and filled rebellion cast/starship and moved them to attack the empire"
