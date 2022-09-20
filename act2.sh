@@ -10,7 +10,7 @@ mkdir millenium_falcon
 touch han_solo.txt chewbacca.txt 
 # 6. Move luke_skywalker, obi_wan, and princess_leia into the millenium_falcon, respectively.
 mv rebellion/luke_skywalker.txt millenium_falcon/luke_skywalker.txt
-mv obi_wan.txt millenium_falcon
-mv princess_leia.txt millenium_falcon
+mv rebellion/obi_wan.txt millenium_falcon/obi_wan.txt
+mv rebellion/princess_leia.txt millenium_falcon/princess_leia.txt 
 # 7. Move the millenium_falcon into the death_star.
 mv rebellion/millenium_falcon death_star/millenium_falcon
