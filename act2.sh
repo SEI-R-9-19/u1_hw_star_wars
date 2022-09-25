@@ -17,4 +17,4 @@ touch han_solo.txt chewbacca.txt
 mv luke_skywalker.txt obi_wan.txt princess_leia.txt ./millenium_falcon/
 
 # 7. Move the millenium_falcon into the death_star.
-mv millenium_falcon /Users/devguest/ga_seir/unit1/u1_hw_star_wars/star_wars/empire/death_star
+mv millenium_falcon empire/death_star
